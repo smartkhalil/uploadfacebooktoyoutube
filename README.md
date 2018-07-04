@@ -1,3 +1,9 @@
+#Fix This
+- fix path in index.php line(205)  url: 'uploadtoyoutube.php',
+- https://console.cloud.google.com Authorized redirect URIs should be http not https 
+
+
+
 # how to use
 first acquire an OAuth 2.0 client ID and client secret from the
 
